@@ -108,3 +108,4 @@ venv.bak/
 *.csv
 *.gz
 .dat
+*/logs*/
