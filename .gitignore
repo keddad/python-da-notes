@@ -109,3 +109,4 @@ venv.bak/
 *.gz
 .dat
 */logs*/
+*.h5
